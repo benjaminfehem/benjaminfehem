@@ -13,7 +13,7 @@
 ## 🚀 Projets en cours
 - 📚 Site e-learning pour Polytechnique Maroua  
 - 🛡️ Travaux pratiques sur la cybersécurité avec DVWA 
-- 🕹️ Prototypes de jeux et outils interactifs
+- 🕹️ Prototypes de jeux et outils interactifs<br>
 
 ---
 
@@ -32,12 +32,12 @@
 > *“Ne laisse jamais quelqu’un te dire que tu n’es pas capable. Même pas moi.” – À la poursuite du bonheur* 🎯
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=benjaminfehem&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=benjaminfehem&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy"><br>
 
 ----
 ## Github Stats 🔥
 
-![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminfehem&show_icons=true&theme=radical)
+![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminfehem&show_icons=true&theme=radical)<br>
 
 -----
 
