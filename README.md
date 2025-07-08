@@ -32,7 +32,7 @@
 > *“Ne laisse jamais quelqu’un te dire que tu n’es pas capable. Même pas moi.” – À la poursuite du bonheur* 🎯
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=benjaminfehem&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy"><br>
+<img src="https://github-profile-trophy.vercel.app/?username=benjaminfehem&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy"><br><br>
 
 ----
 ## Github Stats 🔥
