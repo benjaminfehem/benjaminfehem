@@ -37,7 +37,7 @@
 ----
 ## Github Stats 🔥
 
-![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminfehem&show_icons=true&theme=radical)<\br><br>
+![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminfehem&show_icons=true&theme=radical)<br>
 <br><br>
 -----
 <br>
