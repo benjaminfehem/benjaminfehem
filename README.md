@@ -37,4 +37,5 @@
 ![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminfehem&show_icons=true&theme=radical)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjaminfehem&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="benjaminfehem" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benjaminfehem&show_icons=true&locale=en&theme=tokyonight" alt="benjaminfehem" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=benjaminfehem&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" alt="benjaminfehem" /></p>
