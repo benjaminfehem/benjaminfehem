@@ -1,5 +1,4 @@
- # 👋 Bonjour, je suis Nzietchueng Fehem Benjamin
-
+ # 👋 Bonjour, je suis NZIETCHUENG FEHEM BENJAMIN 
 🎓 Étudiant à l'École Nationale Supérieure Polytechnique de Maroua  
 💡 Passionné par la programmation, le développement web, les jeux vidéo et la cybersécurité  
 🌍 Basé à Maroua, Cameroun  
@@ -23,11 +22,6 @@
 
 ---
 
-## 📈 Statistiques GitHub
-![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminfehem&show_icons=true&theme=radical)
-
----
-
 ## 🔗 Liens utiles
 - [📎 LinkedIn (à venir)](https://linkedin.com)  
 - [💼 Portfolio en cours de création]()
@@ -38,7 +32,9 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=benjaminfehem&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy">
 
-### Github Stats 🔥
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=benjaminfehem&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" alt="benjaminfehem" /></p>
+## Github Stats 🔥
+
+![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminfehem&show_icons=true&theme=radical)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjaminfehem&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="benjaminfehem" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benjaminfehem&show_icons=true&locale=en&theme=tokyonight" alt="benjaminfehem" /></p>
