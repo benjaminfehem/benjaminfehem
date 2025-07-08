@@ -24,7 +24,7 @@
 ---
 
 ## 🔗 Liens utiles
-- [📎 LinkedIn (à venir)](https://linkedin.com)  
+- [📎 LinkedIn](https://linkedin.com/in/benjamin-fehem-464779373)  
 - [💼 Portfolio en cours de création]()
 
 ---
@@ -32,6 +32,7 @@
 > *“Ne laisse jamais quelqu’un te dire que tu n’es pas capable. Même pas moi.” – À la poursuite du bonheur* 🎯
 
 <img src="https://github-profile-trophy.vercel.app/?username=benjaminfehem&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy">
+
 
 ## Github Stats 🔥
 
@@ -44,4 +45,4 @@
 -----
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=benjaminfehem&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" alt="benjaminfehem" /></p><br>
------
+
