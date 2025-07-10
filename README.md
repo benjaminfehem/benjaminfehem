@@ -24,8 +24,9 @@
 ---
 
 ## 🔗 Liens utiles
-- [📎 LinkedIn](https://linkedin.com/in/benjamin-fehem-464779373)  
-- [💼 Portfolio en cours de création]()
+- [📎 LinkedIn](https://linkedin.com/in/benjamin-fehem-464779373)
+- 
+- 
 
 ---
 
