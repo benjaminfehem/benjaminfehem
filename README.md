@@ -1,5 +1,5 @@
 # Bonjour, je suis NZIETCHUENG FEHEM BENJAMIN,
-🎓 Étudiant à l'École Nationale Supérieure Polytechnique de Maroua  
+🎓 Étudiant ingénieur à l'École Nationale Supérieure Polytechnique de Maroua  
 💡 Passionné par la programmation, le développement web, les jeux vidéo et la cybersécurité  
 🌍 Basé à Maroua, Cameroun  
 
