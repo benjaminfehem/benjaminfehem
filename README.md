@@ -39,7 +39,7 @@
 ## Github Stats 🔥
 
 ![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminfehem&show_icons=true&theme=radical)<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjaminfehem&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="benjaminfehem" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjaminfehem&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="benjaminfehem"/></p>
 <br>
 <br>
 <br>
