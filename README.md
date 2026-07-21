@@ -29,7 +29,7 @@
 ### 🚀 Projets en cours
 
 - 🎉 **Surprise** (projet secret en préparation)
-- 🎮 **Prototypes de jeux et outils interactifs** (développement avec Unity/Godot et Blender)
+- 🎮 **Prototypes de jeux et outils interactifs**
 
 ---
 
@@ -43,12 +43,15 @@
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benjaminfehem&show_icons=true&theme=dark&hide_border=true" alt="Stats GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminfehem&layout=compact&theme=dark&hide_border=true" alt="Top Langages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=benjaminfehem&show_icons=true&theme=dark" alt="Stats GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benjaminfehem&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminfehem&layout=compact&theme=dark" alt="Top Langages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=benjaminfehem&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -56,7 +59,7 @@
 ### 🏆 Trophées GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benjaminfehem&theme=darkhub&no-frame=true&row=1" alt="Trophées GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=benjaminfehem&theme=darkhub" alt="Trophées" />
 </p>
 
 ---
@@ -64,7 +67,7 @@
 ### 📈 Activité récente
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=benjaminfehem&theme=github-dark&area=true&hide_border=true" alt="Graphique d'activité" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=benjaminfehem&theme=github-dark" alt="Graphique d'activité" />
 </p>
 
 ---
@@ -77,7 +80,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=benjaminfehem&label=Visiteurs&color=0e75b6&style=flat" alt="Compteur de visites" />
+  <img src="https://komarev.com/ghpvc/?username=benjaminfehem&label=Visiteurs&color=0e75b6&style=flat" alt="Visiteurs" />
 </p>
 
 <p align="center">
