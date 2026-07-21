@@ -1,4 +1,5 @@
-<h1 align="center">Hi guys, My name is NZIETCHUENG FEHEM BENJAMIN</h1>
+
+<h1 align="center">👋 Bonjour, je suis NZIETCHUENG FEHEM BENJAMIN</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=%C3%89tudiant+en+IA+et+Num%C3%A9rique;D%C3%A9veloppeur+Web+et+Jeux+Video;Passionn%C3%A9+par+le+Graphisme+3D" alt="Typing SVG" />
@@ -50,8 +51,27 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminfehem&layout=compact&theme=dark" alt="Top Langages" />
 </p>
 
+<!-- Stats manuelles basées sur votre screenshot -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=benjaminfehem&theme=dark" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td align="center">
+        <strong>📝 Total Contributions</strong><br>
+        <span style="font-size: 24px;">106</span><br>
+        <small>Jul 7, 2025 - Present</small>
+      </td>
+      <td align="center">
+        <strong>🔥 Current Streak</strong><br>
+        <span style="font-size: 24px;">1</span><br>
+        <small>Jul 21, 2025</small>
+      </td>
+      <td align="center">
+        <strong>⚡ Longest Streak</strong><br>
+        <span style="font-size: 24px;">4</span><br>
+        <small>Jul 7, 2025 - Jul 10, 2025</small>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -59,7 +79,7 @@
 ### 🏆 Trophées GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benjaminfehem&theme=darkhub" alt="Trophées" />
+  <img src="https://github-profile-trophy.vercel.app/?username=benjaminfehem&theme=darkhub" alt="Trophées GitHub" />
 </p>
 
 ---
