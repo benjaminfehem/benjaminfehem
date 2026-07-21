@@ -1,51 +1,82 @@
-# Bonjour, je suis NZIETCHUENG FEHEM BENJAMIN,
-🎓 Étudiant ingénieur à l'École Nationale Supérieure Polytechnique de Maroua  
-💡 Passionné d'animation 3D de graphisme et de développement de jeux vidéo
-🌍 Basé à Maroua, Cameroun  
+# 👋 Bonjour, je suis NZIETCHUENG FEHEM BENJAMIN
 
-📫 Contact : benjaminfehem@gmail.com  
+🎓 Étudiant en Ingénierie des Arts Numériques à l'École Nationale Supérieure Polytechnique de Maroua (ENSPM)
+
+🎮 Passionné par le développement de jeux vidéo, l'animation 3D, la réalité mixte et l'intelligence artificielle.
+
+📍 Maroua, Cameroun
+
 ---
+
+## 📫 Contact
+
+- 📧 benjaminfehem@gmail.com
+- 💼 LinkedIn : https://linkedin.com/in/TON-PROFIL
+- 💻 GitHub : https://github.com/benjaminfehem
+
+---
+
 ## 💻 Compétences techniques
-- 🔹 Langages : HTML, CSS, JavaScript, PHP, MySQL
-- 🔹outils 
-- 🔹 Outils : GitHub, VS Code, Linux (Parrot OS), blender
-- 🔹 Centres d’intérêt : Web design, programmation web, graphisme, montage
+
+| Domaine | Technologies |
+|---------|--------------|
+| Langages | HTML, CSS, JavaScript, PHP, Python, SQL |
+| Développement Web | HTML, CSS, JavaScript, PHP |
+| Base de données | MySQL |
+| Outils | Git, GitHub, VS Code, Blender |
+| Systèmes | Linux |
+
 ---
-## 🚀 Projets en cours
-- 📚 suprise 🤫
-- 🕹️ Prototypes de jeux et outils interactifs<br>
+
+## 🚀 Projets
+
+- 🤖 Assistant IA pour WhatsApp Business
+- 🎮 Prototypes de jeux vidéo
+- 🎨 Expériences en animation numérique
+- 🌐 Applications web
 
 ---
 
 ## 🌱 En cours d'apprentissage
-- Java, Python, Hacking éthique  
-- UI/UX Design (Figma, Tailwind CSS)
+
+- Java
+- Python avancé
+- Blender
+- Unity
+- Unreal Engine
+- UI/UX Design (Figma)
 
 ---
 
-## 🔗 Liens utiles
-- [📎 LinkedIn](https://linkedin.com/in/benjamin-fehem-464779373)
-- 
-- 
+## 🎯 Objectifs
+
+- Devenir développeur de jeux vidéo
+- Travailler dans un studio d'animation
+- Concevoir des expériences en réalité mixte
+- Développer des applications utilisant l'intelligence artificielle
 
 ---
 
-> *“Ne laisse jamais quelqu’un te dire que tu n’es pas capable. Même pas moi.” – À la poursuite du bonheur* 🎯
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjaminfehem&show_icons=true&theme=tokyonight)
 
-<img src="https://github-profile-trophy.vercel.app/?username=benjaminfehem&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy">
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminfehem&layout=compact&theme=tokyonight)
 
-----
-## Github Stats 🔥
+![GitHub Streak](https://streak-stats.demolab.com?user=benjaminfehem&theme=tokyonight)
 
-![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminfehem&show_icons=true&theme=radical)<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjaminfehem&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="benjaminfehem"/></p>
-<br>
-<br>
-<br>
+---
 
+## 🏆 GitHub Trophy
 
-<br>
-<br>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=benjaminfehem&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" alt="benjaminfehem" /></p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=benjaminfehem&theme=algolia&no-frame=true)
+
+---
+
+## 📈 Activité
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=benjaminfehem&theme=github-dark)
+
+---
+
+> *"Créer aujourd'hui les expériences numériques de demain."*
