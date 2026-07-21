@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bonjour, je suis NZIETCHUENG FEHEM BENJAMIN</h1>
+<h1 align="center">Hi guys, My name is NZIETCHUENG FEHEM BENJAMIN</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=%C3%89tudiant+en+IA+et+Num%C3%A9rique;D%C3%A9veloppeur+Web+et+Jeux+Video;Passionn%C3%A9+par+le+Graphisme+3D" alt="Typing SVG" />
