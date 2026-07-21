@@ -1,18 +1,18 @@
 # Bonjour, je suis NZIETCHUENG FEHEM BENJAMIN,
 🎓 Étudiant ingénieur à l'École Nationale Supérieure Polytechnique de Maroua  
-💡 Passionné par la programmation, le développement web, les jeux vidéo et la cybersécurité  
+💡 Passionné d'animation 3D de graphisme et de développement de jeux vidéo
 🌍 Basé à Maroua, Cameroun  
 
 📫 Contact : benjaminfehem@gmail.com  
 ---
 ## 💻 Compétences techniques
 - 🔹 Langages : HTML, CSS, JavaScript, PHP, MySQL
-- 🔹 Outils : Git, GitHub, VS Code, Linux (Parrot OS)
-- 🔹 Centres d’intérêt : Cybersécurité (injections SQL, analyse réseau), Web design, programmation web
+- 🔹outils 
+- 🔹 Outils : GitHub, VS Code, Linux (Parrot OS), blender
+- 🔹 Centres d’intérêt : Web design, programmation web, graphisme, montage
 ---
 ## 🚀 Projets en cours
-- 📚 Site e-learning pour Polytechnique Maroua  
-- 🛡️ Travaux pratiques sur la cybersécurité avec DVWA 
+- 📚 suprise 🤫
 - 🕹️ Prototypes de jeux et outils interactifs<br>
 
 ---
