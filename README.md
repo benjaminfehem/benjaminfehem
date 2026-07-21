@@ -59,24 +59,16 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjaminfehem&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=benjaminfehem&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminfehem&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminfehem&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=benjaminfehem&theme=tokyonight)
-
----
+![](https://streak-stats.demolab.com?user=benjaminfehem&theme=tokyonight&hide_border=true)
 
 ## 🏆 GitHub Trophy
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=benjaminfehem&theme=algolia&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=benjaminfehem&theme=tokyonight&no-frame=true&margin-w=10)
 
----
+## 📈 Activity Graph
 
-## 📈 Activité
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=benjaminfehem&theme=github-dark)
-
----
-
-> *"Créer aujourd'hui les expériences numériques de demain."*
+![](https://github-readme-activity-graph.vercel.app/graph?username=benjaminfehem&theme=tokyo-night)
