@@ -72,7 +72,7 @@
 
 ---
 
-### ✨ Citation préférée
+### ✨ ps
 
 > *"Ne laisse jamais quelqu’un te dire que tu n’es pas capable. Même pas moi."*  
 > — *À la poursuite du bonheur* 😉
