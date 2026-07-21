@@ -1,74 +1,85 @@
-# 👋 Bonjour, je suis NZIETCHUENG FEHEM BENJAMIN
+<h1 align="center">👋 Bonjour, je suis NZIETCHUENG FEHEM BENJAMIN</h1>
 
-🎓 Étudiant en Ingénierie des Arts Numériques à l'École Nationale Supérieure Polytechnique de Maroua (ENSPM)
-
-🎮 Passionné par le développement de jeux vidéo, l'animation 3D, la réalité mixte et l'intelligence artificielle.
-
-📍 Maroua, Cameroun
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=%C3%89tudiant+en+IA+et+Num%C3%A9rique;D%C3%A9veloppeur+Web+et+Jeux+Video;Passionn%C3%A9+par+le+Graphisme+3D" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📫 Contact
+### 🙋‍♂️ À propos de moi
 
-- 📧 benjaminfehem@gmail.com
-- 💼 LinkedIn : https://linkedin.com/in/TON-PROFIL
-- 💻 GitHub : https://github.com/benjaminfehem
-
----
-
-## 💻 Compétences techniques
-
-| Domaine | Technologies |
-|---------|--------------|
-| Langages | HTML, CSS, JavaScript, PHP, Python, SQL |
-| Développement Web | HTML, CSS, JavaScript, PHP |
-| Base de données | MySQL |
-| Outils | Git, GitHub, VS Code, Blender |
-| Systèmes | Linux |
+- 🎓 **Étudiant ingénieur** à l'École Nationale Supérieure Polytechnique de Maroua (ENSPM), Cameroun.
+- 🎮 Passionné par **l'animation 3D**, le **graphisme** et le **développement de jeux vidéo**.
+- 💻 Je crée des expériences numériques innovantes, du web aux jeux interactifs.
+- 📫 **Contact :** [benjaminfhem@gmail.com](mailto:benjaminfhem@gmail.com)
+- 🔗 **LinkedIn :** [in/benjamin-fehem-464779373](https://www.linkedin.com/in/benjamin-fehem-464779373)
 
 ---
 
-## 🚀 Projets
+### 🛠️ Compétences techniques
 
-- 🤖 Assistant IA pour WhatsApp Business
-- 🎮 Prototypes de jeux vidéo
-- 🎨 Expériences en animation numérique
-- 🌐 Applications web
-
----
-
-## 🌱 En cours d'apprentissage
-
-- Java
-- Python avancé
-- Blender
-- Unity
-- Unreal Engine
-- UI/UX Design (Figma)
+| Catégorie | Technologies |
+|-----------|--------------|
+| **Langages** | HTML, CSS, JavaScript, PHP, MySQL, Java, Python |
+| **Outils & Frameworks** | GitHub, VS Code, Linux (Parrot OS), Blender, Figma, Tailwind CSS |
+| **Centres d'intérêt** | Web design, UI/UX, Hacking éthique, Montage vidéo, Jeux vidéo |
 
 ---
 
-## 🎯 Objectifs
+### 🚀 Projets en cours
 
-- Devenir développeur de jeux vidéo
-- Travailler dans un studio d'animation
-- Concevoir des expériences en réalité mixte
-- Développer des applications utilisant l'intelligence artificielle
+- 🎉 **Surprise** (projet secret en préparation)
+- 🎮 **Prototypes de jeux et outils interactifs** (développement avec Unity/Godot et Blender)
 
 ---
 
-## 📊 GitHub Stats
+### 📚 En apprentissage
 
-![](https://github-readme-stats.vercel.app/api?username=benjaminfehem&show_icons=true&theme=tokyonight&hide_border=true)
+- 🔍 Java, Python, **Hacking éthique**
+- 🎨 **UI/UX Design** (Figma, Tailwind CSS)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminfehem&layout=compact&theme=tokyonight&hide_border=true)
+---
 
-![](https://streak-stats.demolab.com?user=benjaminfehem&theme=tokyonight&hide_border=true)
+### 📊 Statistiques GitHub
 
-## 🏆 GitHub Trophy
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=benjaminfehem&show_icons=true&theme=dark&hide_border=true" alt="Stats GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminfehem&layout=compact&theme=dark&hide_border=true" alt="Top Langages" width="48%" />
+</p>
 
-![](https://github-profile-trophy.vercel.app/?username=benjaminfehem&theme=tokyonight&no-frame=true&margin-w=10)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benjaminfehem&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
-## 📈 Activity Graph
+---
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=benjaminfehem&theme=tokyo-night)
+### 🏆 Trophées GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=benjaminfehem&theme=darkhub&no-frame=true&row=1" alt="Trophées GitHub" />
+</p>
+
+---
+
+### 📈 Activité récente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=benjaminfehem&theme=github-dark&area=true&hide_border=true" alt="Graphique d'activité" />
+</p>
+
+---
+
+### ✨ Citation préférée
+
+> *"Ne laisse jamais quelqu’un te dire que tu n’es pas capable. Même pas moi."*  
+> — *À la poursuite du bonheur* 😉
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=benjaminfehem&label=Visiteurs&color=0e75b6&style=flat" alt="Compteur de visites" />
+</p>
+
+<p align="center">
+  <i>"Créer aujourd'hui les expériences numériques de demain."</i>
+</p>
