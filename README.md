@@ -33,10 +33,6 @@ Je m'intéresse à la création d'expériences numériques qui combinent
 Mon objectif est de devenir un professionnel capable de transformer
 des idées créatives en **expériences numériques interactives et fonctionnelles**.
 
-Je cherche particulièrement à développer mes compétences dans :
-
-> **🎮 Game Development + 🥽 VR + 🎨 3D/Animation**
-
 ---
 
 # 🛠️ Technologies & outils
@@ -49,7 +45,6 @@ Je cherche particulièrement à développer mes compétences dans :
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🎨 Création numérique
 
@@ -61,7 +56,6 @@ Je cherche particulièrement à développer mes compétences dans :
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -77,31 +71,6 @@ différentes méthodes de chiffrement.
 `HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
 ➡️ [Voir le projet](https://github.com/benjaminfehem/crypto-ahn)
-
----
-
-➡️ [Voir le projet](https://github.com/benjaminfehem/Site-polytechnique-)
-
----
-
-## 🎮 Game Development
-
-Je développe progressivement des prototypes et expériences
-interactives afin d'approfondir mes compétences en programmation,
-game design et création numérique.
-
-🚧 **Projets en développement...**
-
----
-
-## 🥽 Réalité Virtuelle
-
-Je m'intéresse particulièrement à la création d'expériences
-immersives et interactives en réalité virtuelle.
-
-🚧 **Projets en apprentissage...**
-
----
 
 # 📚 Actuellement en apprentissage
 
@@ -177,7 +146,7 @@ Créer des expériences numériques combinant :
 
 💼 Pour les collaborations, projets ou opportunités :
 
-📧 **[Ton adresse email professionnelle ici]**
+📧 **[juniorfehem@gmail.com]**
 
 ---
 
