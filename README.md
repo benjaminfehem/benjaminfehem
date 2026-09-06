@@ -12,7 +12,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/benjamin-fehem-137680403/">
+<a href="https://www.linkedin.com/in/benjamin-nzietchueng-fehem-137680403?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
