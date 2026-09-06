@@ -12,7 +12,7 @@
 - 🎮 Passionné par **l'animation 3D**, le **graphisme** et le **développement de jeux vidéo**.
 - 💻 Je crée des expériences numériques innovantes, du web aux jeux interactifs.
 - 📫 **Contact :** [benjaminfhem@gmail.com](mailto:benjaminfhem@gmail.com)
-- 🔗 **LinkedIn :** [in/benjamin-fehem-464779373](https://www.linkedin.com/in/benjamin-fehem-464779373)
+- 🔗 **LinkedIn :** [in/benjamin-fehem-464779373]([https://www.linkedin.com/in/benjamin-fehem-464779373](https://www.linkedin.com/in/benjamin-fehem-137680403?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 ---
 
