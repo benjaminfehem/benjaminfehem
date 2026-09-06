@@ -1,4 +1,4 @@
-# Hello guy's👋,mon nom est NZIETCHUENG FEHEM BENJAMIN
+# Hello guy's👋, je suis NZIETCHUENG FEHEM BENJAMIN
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ing%C3%A9nieur+en+Arts+Num%C3%A9riques;Game+Development+%F0%9F%8E%AE;R%C3%A9alit%C3%A9+Virtuelle+%F0%9F%A5%BD;3D+%26+Animation+%F0%9F%8E%A8;Cr%C3%A9er.+Imaginer.+Innover." />
