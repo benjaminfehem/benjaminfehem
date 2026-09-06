@@ -1,10 +1,6 @@
 # 👋 Salut, moi c'est Benjamin Fehem
 
 <p align="center">
-  <img src="./assets/banner.gif" width="100%" alt="Benjamin Fehem">
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ing%C3%A9nieur+en+Arts+Num%C3%A9riques;Game+Development+%F0%9F%8E%AE;R%C3%A9alit%C3%A9+Virtuelle+%F0%9F%A5%BD;3D+%26+Animation+%F0%9F%8E%A8;Cr%C3%A9er.+Imaginer.+Innover." />
 </p>
 
@@ -62,7 +58,7 @@ aux jeux vidéo, à la réalité virtuelle, à la 3D et à l'animation.
 ## 🛠️ Outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,blender" />
 </p>
 
 <p align="center">
@@ -106,24 +102,14 @@ aux jeux vidéo, à la réalité virtuelle, à la 3D et à l'animation.
 
 ---
 
-## 🌐 Follow Me
-
 <p align="center">
-
-💼 LinkedIn • 💻 GitHub • 📘 Facebook • 📸 Instagram • 👻 Snapchat
-
-</p>
-
----
-
-<p align="center">
-  <img src="./assets/footer.gif" width="100%" alt="Digital Arts">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Building+the+future+with+digital+creativity...;🎮+Game+Development+%7C+VR+%7C+3D;🥽+Exploring+immersive+experiences...;🎨+Turning+ideas+into+digital+experiences...;💻+Code.+Create.+Innovate.;✨+Créer+aujourd'hui+les+expériences+numériques+de+demain." />
 </p>
 
 <p align="center">
-  <b>✨ Créer aujourd'hui les expériences numériques de demain.</b>
+  <img src="https://komarev.com/ghpvc/?username=benjaminfehem&label=Profile%20Views&color=58A6FF&style=flat" />
 </p>
 
 <p align="center">
-  ⭐ Merci d'avoir visité mon profil !
+  ⭐ <b>Merci d'avoir visité mon profil !</b> ⭐
 </p>
