@@ -1,130 +1,82 @@
 # 👋 Salut, moi c'est Benjamin Fehem
 
 <p align="center">
-  <img src="./assets/banner.gif" width="100%" alt="Benjamin Fehem - Arts Numériques">
+  <img src="./assets/banner.gif" width="100%" alt="Benjamin Fehem">
 </p>
 
 <p align="center">
-  <b>🎓 Étudiant Ingénieur en Arts Numériques</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ing%C3%A9nieur+en+Arts+Num%C3%A9riques;Game+Development+%F0%9F%8E%AE;R%C3%A9alit%C3%A9+Virtuelle+%F0%9F%A5%BD;3D+%26+Animation+%F0%9F%8E%A8;Cr%C3%A9er.+Imaginer.+Innover." />
 </p>
 
 <p align="center">
-  🎮 Game Development &nbsp; • &nbsp;
-  🥽 Réalité Virtuelle &nbsp; • &nbsp;
-  🎨 3D & Animation &nbsp; • &nbsp;
-  💻 Développement
+  🎓 Étudiant ingénieur en Arts Numériques
+  <br>
+  🎮 Game Development • 🥽 VR • 🎨 3D & Animation • 💻 Development
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/benjamin-fehem-137680403/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/benjaminfehem">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+
+<a href="TON_LIEN_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/benjaminfehem">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.facebook.com/benjamin.fehem">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+<a href="TON_LIEN_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.snapchat.com/add/benjamin_zr237">
+<img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black">
+</a>
+
 </p>
 
 ---
 
 ## 👨‍💻 À propos de moi
 
-🎓 Étudiant ingénieur en **Arts Numériques** à l'École Nationale
-Supérieure Polytechnique de Maroua.
+🎓 Étudiant ingénieur en **Arts Numériques**.
 
-Je m'intéresse à la création d'expériences numériques qui combinent :
+Je m'intéresse à la création numérique, à la programmation,
+aux jeux vidéo, à la réalité virtuelle, à la 3D et à l'animation.
 
-**💻 Technologie + 🎨 Créativité + 🎮 Interaction**
-
-Mes principaux centres d'intérêt sont le **Game Development**, la
-**Réalité Virtuelle**, la **3D**, l'**animation** et le développement
-d'applications interactives.
+> 💻 Technologie + 🎨 Créativité + 🎮 Interaction
 
 ---
 
-## 🛠️ Technologies
+## 💻 Development
 
-### 💻 Développement
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,cs">
-</p>
-
-### 🎨 Création numérique
-
-<p>
-  <img src="https://skillicons.dev/icons?i=blender,figma">
-</p>
-
-### 🔧 Outils
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,php" />
 </p>
 
 ---
 
-## 📚 Ce que j'apprends actuellement
+## 🛠️ Outils
 
-🌱 Je développe progressivement mes compétences dans :
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
 
-- 🐍 Python
-- 🎮 C#
-- 🎮 Game Development
-- 🥽 Réalité Virtuelle
-- 🎨 Modélisation 3D
-- 🎬 Animation numérique
-- 🎨 UI/UX Design
+<p align="center">
+  <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" />
+</p>
 
 ---
 
-# 🚀 Mes projets
+## 📚 Currently Learning
 
-## 🔐 Crypto-AHN
-
-Prototype d'application autour du chiffrement et de l'échange
-de messages.
-
-**Technologies :**
-
-`HTML` `CSS` `JavaScript` `PHP` `MySQL`
-
-🔗 Voir le projet
-
----
-
-## 🎮 Game Development
-
-Je développe progressivement des prototypes de jeux et
-d'expériences interactives afin d'améliorer mes compétences en
-programmation et en création numérique.
-
-🚧 **Projets en développement**
-
----
-
-## 🥽 Réalité Virtuelle
-
-Je m'intéresse à la création d'environnements et d'expériences
-immersives en réalité virtuelle.
-
-🚧 **Projets en apprentissage**
-
----
-
-# 🎯 Mes objectifs
-
-### Aujourd'hui
-
-💻 Renforcer mes compétences en programmation  
-🎨 Améliorer mes compétences en 3D  
-🎮 Créer mes premiers vrais jeux  
-🥽 Découvrir et expérimenter la VR  
-
-### Demain
-
-Créer des expériences numériques combinant :
-
-> 🎮 Game Development + 🥽 VR + 🎨 3D + 💻 Technologie
+🎮 Game Development  
+🥽 Virtual Reality  
+🎨 3D & Animation  
+💡 Interactive Digital Experiences
 
 ---
 
@@ -132,6 +84,7 @@ Créer des expériences numériques combinant :
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benjaminfehem&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminfehem&layout=compact&theme=tokyonight&hide_border=true" height="170">
 </p>
 
@@ -153,21 +106,11 @@ Créer des expériences numériques combinant :
 
 ---
 
-# 🐍 Mes contributions
-
-<p align="center">
-  <img src="./assets/snake.svg" alt="GitHub Contribution Snake">
-</p>
-
----
-
-# 🌐 Me retrouver
+## 🌐 Follow Me
 
 <p align="center">
 
-💼 **LinkedIn**  
-💻 **GitHub**  
-🌐 **Portfolio bientôt disponible**
+💼 LinkedIn • 💻 GitHub • 📘 Facebook • 📸 Instagram • 👻 Snapchat
 
 </p>
 
